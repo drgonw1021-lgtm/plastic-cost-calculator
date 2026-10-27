@@ -1,3 +1,5 @@
+
+**在线使用：** https://drgonw1021-lgtm.github.io/plastic-cost-calculator/
 # 塑料件材料费计算器 · 免费网页版
 
 **一句话**：把 STEP / IGES 模型拖进浏览器 → 自动拆出每个零件，算出体积、克重和材料费。
